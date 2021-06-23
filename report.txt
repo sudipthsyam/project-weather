@@ -1,0 +1,6 @@
+Current climate details of kochi
+Current temperature is:26.99000000000001 deg c
+Current Humidity      :87 %
+Current weather desc  :moderate rain
+Current wind speed    :3.91 kmph
+Current time and date :23 Jun 2021 | 03:45:03 PM
